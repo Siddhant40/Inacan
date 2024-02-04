@@ -24,3 +24,6 @@ This project is a replica of the Inacan website, aiming to showcase the skills a
 1. Clone the repository:
 
    git clone https://github.com/Siddhant40/Inacan
+
+2. Clone Deployed on :
+    🔗 https://inacan.netlify.app/
