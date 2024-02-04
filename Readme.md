@@ -22,5 +22,5 @@ This project is a replica of the Inacan website, aiming to showcase the skills a
 ## Setup
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/siddhant40/inacan-clone.git
