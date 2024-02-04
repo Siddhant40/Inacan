@@ -1,6 +1,6 @@
 # Inacan Website Clone
 
-This is a clone of the [Inacan](www.inacan.com) website. The project is built using HTML, CSS, and JavaScript.
+This is a clone of the [Inacan](www.inacan.in) website. The project is built using HTML, CSS, and JavaScript.
 
 
 
@@ -23,4 +23,4 @@ This project is a replica of the Inacan website, aiming to showcase the skills a
 
 1. Clone the repository:
 
-   git clone https://github.com/siddhant40/inacan-clone.git
+   git clone https://github.com/Siddhant40/Inacan
