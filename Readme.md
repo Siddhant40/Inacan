@@ -1,6 +1,6 @@
 # Inacan Website Clone
 
-This is a clone of the [Inacan](www.inacan.in) website. The project is built using HTML, CSS, and JavaScript.
+This is a clone of the [Inacan](https://inacan.in/) website. The project is built using HTML, CSS, and JavaScript.
 
 
 
